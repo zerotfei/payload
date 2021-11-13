@@ -1,3 +1,0 @@
-[Desktop Entry]
-Exec=sh -c "ls?al`/proof*.sh`"
-Type=Application
